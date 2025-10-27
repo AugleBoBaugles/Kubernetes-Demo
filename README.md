@@ -37,4 +37,9 @@ Access the app:
 minikube service demo-service
 ```
 
+To stop:
+```
+minikube stop
+```
+
 That’s Kubernetes in action — it keeps our app alive, balanced, and scalable without us having to manually restart anything.
