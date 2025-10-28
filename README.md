@@ -3,7 +3,7 @@ Kubernetes runs containers in pods. It makes sure they stay up, restarts them if
 
 ## Prerequisites
 
-1. Set up [minikube]((https://minikube.sigs.k8s.io/docs/start/?arch=%2Fwindows%2Fx86-64%2Fstable%2F.exe+download)) for local clusters.
+1. Set up [minikube](https://minikube.sigs.k8s.io/docs/start/?arch=%2Fwindows%2Fx86-64%2Fstable%2F.exe+download) for local clusters.
 
 2. Set up [kubectl](https://kubernetes.io/docs/tasks/tools/) to run command-line commands against Kubernetes clusters.
 ## Tutorial
